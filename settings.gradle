@@ -1,0 +1,2 @@
+include ':app', ':mindmaplayout'
+rootProject.name='Artgrammer Maindmaplayout'
